@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cpagel-Aya
-- 👀 I’m interested in physician recruiting problems
+- 👀 I’m interested in data science and product strategy
 - 🌱 I’m currently learning healthcare recruiting use cases
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me chris.pagel@ayahealthcare.com
